@@ -1,1 +1,1 @@
-source code to the project
+Blood Bank Management Sys is a web Development project which uses web languages HTML, CSS , PHP, Javascript ,MYSQL and using databases. The system can keep record of every donator and one can reserve the timings for Donation in Advance. Basically the Blood bank is fully computerized in this project
